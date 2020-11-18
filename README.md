@@ -1,4 +1,4 @@
-# meal
+# meal App
 
 A new Flutter application.
 
